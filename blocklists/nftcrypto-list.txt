@@ -179,7 +179,6 @@
 ||dfohub.com^
 ||digitalartists.io^
 ||digitaleyes.market^
-||discord.com^
 ||doubleyourbitcoin.net^
 ||dydx.exchange^
 ||easycryptomining.com^
