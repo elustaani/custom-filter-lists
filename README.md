@@ -9,7 +9,7 @@
 ## Usecase
 #### Simply:
 
-- Adguard is basically a DNS server, that blocks any and all access to domains you don't want to "reach" you online.
+- Adguard is basically a DNS server, that blocks any and all access to domains you don't want to "reach" online.
 - In Adguard there's filterlists that hold huge variety of different domains that are either blocked or allowed.
 - When you block a domain, it blocks access to that specific site, for the entire "network" not just the client like PC.
 - You can also allow specific domains you trust and want limited or unlimited access to.
