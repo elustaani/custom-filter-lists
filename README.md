@@ -20,4 +20,4 @@
 ### Blocklists
 
 ```bash
-
+https://raw.githubusercontent.com/elustaani/custom-filter-lists/refs/heads/main/blocklists/nftcrypto-list.txt
