@@ -1,4 +1,3 @@
-"Custom filter lists"
 ## DNS Block & Allow lists for AdGuard Home
 
 - This repository is made to host some custom filter lists for AdGuard, to block and allow certain DNS requests.
