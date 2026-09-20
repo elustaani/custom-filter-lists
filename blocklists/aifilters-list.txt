@@ -1922,6 +1922,7 @@ gatherly.ai
 gb.kur.ai
 gecdesigns.com
 gemini.google.com
+gemini.google.com/app
 gemoo.com
 gemynd.ai
 gen.ai
