@@ -17,12 +17,12 @@
 ## How to use 
  Copy and paste any of the following lines into your DNS blocklists by clicking "Add blocklist"
 
-###AI Filters 
+### AI Filters 
 
 ```bash
 https://raw.githubusercontent.com/elustaani/custom-filter-lists/refs/heads/main/blocklists/aifilters-list.txt
 ```
 
-###Crypto & NFT Filters
+### Crypto & NFT Filters
 ```bash
 https://raw.githubusercontent.com/elustaani/custom-filter-lists/refs/heads/main/blocklists/nftcrypto-list.txt
