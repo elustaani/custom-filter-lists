@@ -1510,8 +1510,6 @@ dimensions.ink
 dinosaur.org
 dippy.ai
 disciplines.ng
-discord.com
-discord.com/app
 discovery.ai
 discussions.avatar.ai
 displate.com
