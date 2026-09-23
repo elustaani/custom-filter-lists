@@ -44,7 +44,6 @@
 ||ab.ai^
 ||abacus.ai^
 abbyy.com/ai^
-||abbyy.com^
 ||abe.ai^
 ||ablyai.com^
 ||ablyft.com^
@@ -558,7 +557,6 @@ altair.com/ai^
 ||anthropic.com^
 ||antimetal.com^
 ||antler.co^
-||antti.ai^
 ||antuit.ai^
 ||anya.ai^
 ||anygen.ai^
@@ -575,8 +573,6 @@ altair.com/ai^
 ||api-docs.deepseek.com^
 ||api.ai^
 ||api.amp.ai^
-||api.api.ai^
-||api.deepseek.com^
 ||api.delx.ai^
 ||api.execution.market^
 ||api.hivemind.ai^
