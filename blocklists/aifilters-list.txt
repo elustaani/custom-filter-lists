@@ -939,7 +939,6 @@ bing.com/images/create^
 ||blackbox.ai^
 ||blackforestlabs.ai^
 ||blackink.ai^
-||blackmagicdesign.com^
 ||blackshark.ai^
 ||blainy.com^
 ||bland.ai^
