@@ -4767,7 +4767,6 @@ powerva.microsoft.com^
 ||pygmalion.chat^
 ||pynecone.io^
 ||pypestream.com^
-||pypi.org^
 ||pytorch.org^
 ||q.collective.ai^
 ||qanz.dev.howdy.ai^
