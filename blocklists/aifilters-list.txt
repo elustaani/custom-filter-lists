@@ -6141,7 +6141,6 @@ vertexai.google.com^
 ||vsub.io^
 ||vwo.com^
 ||vyond.com^
-||w3schools.com^
 ||waa.ai^
 ||waifu.com.mx^
 ||waifu2x.udp.jp^
