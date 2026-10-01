@@ -3160,7 +3160,6 @@ interviewwarmup.withgoogle.com^
 ||joinpongo.com^
 ||joinrealm.ai^
 ||jonah.ai^
-||joplinapp.org^
 ||josh.ai^
 ||jotapp.tech^
 ||jotform.ai^
