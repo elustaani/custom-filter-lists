@@ -740,7 +740,6 @@ assistant.google.com^
 ||attio.com^
 ||attomdata.com^
 ||auctor.ai^
-||audacityteam.org^
 ||audio.ai^
 ||audioalter.com^
 ||audiocraft.metademolab.com^
@@ -754,7 +753,6 @@ assistant.google.com^
 ||augmentcode.com^
 ||augur.ai^
 ||augxlabs.com^
-||auth0.com^
 ||authoredup.com^
 ||auto.ml^
 ||autobet.pro^
@@ -929,7 +927,6 @@ beehiiv.com/ai^
 ||bildr.com^
 ||bill.ai^
 ||bind.ai^
-bing.com/images/create^
 ||biread.com^
 ||bitbucket.org^
 ||bito.ai^
@@ -1025,6 +1022,8 @@ blueprints.mozilla.ai^
 ||brandwatch.com^
 ||brandwell.ai^
 ||braundress.net^
+brave.com/ai/ 
+brave.com/leo
 ||braze.com^
 ||breadboard.ai^
 ||breeze.ai^
@@ -4095,7 +4094,6 @@ microsoft.com/microsoft-365-copilot^
 ||noco.io^
 ||nocodb.com^
 ||nocodingai.com^
-||nodejs.org^
 ||nodu.ai^
 ||noecrafts.com^
 ||nohat.cc^
@@ -5220,7 +5218,6 @@ sendbird.com/ai-chatbot^
 ||shellmates.app^
 ||shen-shu.com^
 ||shmooz.ai^
-||shop.app^
 ||shopdeft.com^
 ||shoppe.ai^
 ||shopware.com^
@@ -5424,7 +5421,6 @@ sendbird.com/ai-chatbot^
 sql-easy.com/learn/best-ai-sql-query^
 sql-easy.com/learn/best-ai-sql-tools^
 ||squadcast.fm^
-||squarespace.com^
 squareup.com/website-builder/ai^
 ||squibler.io^
 ||src.ai^
