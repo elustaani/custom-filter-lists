@@ -1621,7 +1621,6 @@ copilot.microsoft.com^
 ||craftcms.com^
 ||craftly.ai^
 ||craiyon.com^
-||crates.io^
 ||craveu.ai^
 ||crawlee.dev^
 ||crawlq.ai^
