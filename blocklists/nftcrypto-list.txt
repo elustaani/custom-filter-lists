@@ -1,11 +1,8 @@
-# NFT/Crypto Blocklist
-!
-# This list attempts to block majority of NFT & Crpyptocurrency onlinestores and other related pages.
-!
-# Version 1.0.0
-!
-# Update interval monthly
-!
+! List author https://github.com/elustaani
+! Title: NFT Crypto List
+! Description: Blocks nft and crypto related sites. (Do not use this list if you like cryptos)
+! Version: 1.0
+! Homepage: https://github.com/elustaani/custom-filter-lists
 !
 ||1broker.com^
 ||1inch.io^
