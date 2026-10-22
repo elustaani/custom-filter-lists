@@ -1886,7 +1886,6 @@ designbundles.net/ylivdesign^
 ||dev.howdy.ai^
 ||dev.plex.ai^
 ||dev.socrates.ai^
-||dev.to^
 ||devdocs.io^
 developer.mozilla.org^
 developers.google.com^
@@ -5369,7 +5368,6 @@ sendbird.com/ai-chatbot^
 ||soundful.com^
 ||soundraw.ai^
 ||soundraw.io^
-||sourceforge.net^
 ||sourcegraph.com^
 ||sourcely.net^
 ||sourcery.ai^
