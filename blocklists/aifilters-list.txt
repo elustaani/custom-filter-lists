@@ -1133,7 +1133,6 @@ canva.com/magic-write^
 ||carboncopy.pro^
 ||careerdekho.ai^
 ||careers.ai^
-||cargoship.sh^
 ||caricaturer.io^
 ||caroot.app^
 ||carrd.co^
@@ -1603,7 +1602,6 @@ copilot.microsoft.com^
 ||cosmicguideai.com^
 ||courier.com^
 ||coursebox.ai^
-||coursera.org^
 ||courses.nucl.ai^
 ||covariant.ai^
 ||coverdoc.ai^
@@ -1858,7 +1856,6 @@ crowdin.com/ai^
 ||demo.socrates.ai^
 ||demo.zeek.ai^
 ||demoleap.com^
-||deno.com^
 ||depositphotos.com^
 ||depthtale.com^
 ||deputy.ai^
@@ -2598,13 +2595,13 @@ gemini.google.com^
 ||girlfriend.ai^
 ||giskard.ai^
 ||gistable.ai^
-||git.aeye.ai^
-||git.na.ai^
+git.aeye.ai^
+git.na.ai^
 ||gitbook.com^
 ||gitea.com^
 github.com/a2aproject/A2A^
 github.com/OpenGithubs/moltbot^
-||gitpod.io^
+gitpod.io^
 ||giveflag.com^
 ||giz.ai^
 ||gizmo.ai^
@@ -2915,7 +2912,6 @@ grok.x.com^
 ||howtodraw.ai^
 ||html.to.design^
 ||httpx.dev^
-hub.docker.com^
 ||hubspot.com^
 ||huemint.com^
 ||huggingchat.com^
@@ -3139,8 +3135,6 @@ interviewwarmup.withgoogle.com^
 ||jelou.ai^
 ||jenkins.io^
 ||jenni.ai^
-||jetbrains.ai^
-||jetbrains.com^
 ||jevai.net^
 ||jfrog.com^
 ||jh.ai^
@@ -3173,7 +3167,6 @@ interviewwarmup.withgoogle.com^
 ||jstor.org^
 ||juicy-ai.com^
 ||juicychat.ai^
-||julia.ai^
 ||julius.ai^
 ||jumpstory.com^
 ||june.so^
@@ -4762,7 +4755,6 @@ powerva.microsoft.com^
 ||pygmalion.chat^
 ||pynecone.io^
 ||pypestream.com^
-||pytorch.org^
 ||q.collective.ai^
 ||qanz.dev.howdy.ai^
 ||qase.io^
@@ -5583,7 +5575,7 @@ stitch.withgoogle.com^
 ||sweep.dev^
 ||swell.is^
 ||swellai.com^
-||swiftask.com^
+||swiftask.ai^
 ||swimm.io^
 ||symanto.com^
 ||symbl.ai^
